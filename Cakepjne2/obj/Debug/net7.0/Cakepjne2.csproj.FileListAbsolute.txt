@@ -1,0 +1,14 @@
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\bin\Debug\net7.0\Cakepjne2.exe
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\bin\Debug\net7.0\Cakepjne2.deps.json
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\bin\Debug\net7.0\Cakepjne2.runtimeconfig.json
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\bin\Debug\net7.0\Cakepjne2.dll
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\bin\Debug\net7.0\Cakepjne2.pdb
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\Cakepjne2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\Cakepjne2.AssemblyInfoInputs.cache
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\Cakepjne2.AssemblyInfo.cs
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\Cakepjne2.csproj.CoreCompileInputs.cache
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\Cakepjne2.dll
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\refint\Cakepjne2.dll
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\Cakepjne2.pdb
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\Cakepjne2.genruntimeconfig.cache
+C:\Users\semen\source\repos\Cakepjne2\Cakepjne2\obj\Debug\net7.0\ref\Cakepjne2.dll
